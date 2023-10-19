@@ -1,4 +1,4 @@
-### Hello👋🏼
+## Hello👋🏼
 I'm a passionate web developer with a strong foundation in the latest iterations of PHP, TypeScript, and JavaScript. Holding a Bachelor's degree in media informatics from the University of Tuebingen, I bring a solid educational background to my work. 
 My primary focus has consistently been on developing web applications, where my enthusiasm truly lies in the details of implementation, testing, debugging, and the continuous enhancement of usability and user experience.I have a fundamental knowledge of MVC frameworks like Laravel, as well as relational databases like MySQL. Currently, I'm excitedly learning and exploring the world of React.js.
 <br> 
